@@ -11,14 +11,14 @@
 
 <!-- <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="200" /> -->
 <h1 align="left" id="macropower-title">Hello there! I'm Pavithra Dilshani</h1>
-<h3 align="left">I am a Senior Quality Assurance Engineer at DirectFN Sri Lanka</h3>
+<h3 align="left">I am a Software Quality Assurance Engineer at DirectFN Sri Lanka</h3>
 
 <br>
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kapavithradilshani@gmail.com)](mailto:kapavithradilshani@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/pavithradilshani)](https://github.com/pavithradilshani)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kapavithradilshani/)](https://www.linkedin.com/in/kapavithradilshani/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&labelColor=0a66c2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kapavithradilshani/)](https://www.linkedin.com/in/pavithradilshani-392439175/) 
 
 <br>
 
